@@ -9,6 +9,9 @@ Za problem smo si izbrali porazdelitev in spreminjanje prebivalstva v Sloveniji.
 #### Ugotovitve
 Ugotovili smo da je prebivalstvo upadalo med leti 1998-2005 nato pa je začelo rasti do leta 2017, kjer je zopet začelo padati. Nato smo naredili primerjavo z priseljevanjem ljudi iz drugih držav. Ugotovimo da je večinoma število priseljencev večje od naravnega prirasta. Imamo pa tudi nekaj let ki zelo izstopajo. To so leta med 2005 in 2009, ter leto 2018.
 
+![Image description](Graphs/naravnaPrirast-Priseljevanje.png)
+
+
 #### Text formatting
 
 We can include markdown formatting for **bold**, *italic*, ***both***, [links](https://air.utah.edu), `code` and LaTex formatting for inline equations (such as styling subscripts for CO<sub>2</sub>).
