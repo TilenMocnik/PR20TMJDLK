@@ -19,10 +19,10 @@ Preverimo ali se noramlna porazdelitev zares prilega podatkom za leto 2008.
 
 ![Image description](Graphs/graph-distribution.png)
 
-Sedaj pa si poglejmo rast prebivalcev po občinah, ki najbolj izstopata. To sta občini Štore z največjo rastjo prebivalstva in občina Zavre, kjer prebivalstvo najbolj upada.
+Opazimo da se vse 3 porazdellitve dokaj prilegajo našim podatkom. Sedaj pa si poglejmo rast prebivalcev po občinah, ki najbolj izstopata. To sta občini Štore z največjo rastjo prebivalstva in občina Zavrč, kjer prebivalstvo najbolj upada.
 
 ![Image description](Graphs/primerjavaTopWorest.png)
 
-Z uporabo gručenja bomo občine razdelili po skupinah glede na rast prebivalstva, tako bomo dobili še nekaj občin, ki so najbolj kritične (občine, ki so v isti skupini kakor Zavre).
+Z uporabo gručenja bomo občine razdelili po skupinah glede na rast prebivalstva, tako bomo dobili še nekaj občin, ki so najbolj kritične (občine, ki so v isti skupini kakor Zavrč).
 
 ![Image description](Graphs/treeClustering.png)
