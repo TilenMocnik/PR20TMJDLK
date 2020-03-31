@@ -1,6 +1,6 @@
 Podatkovno rudarjenje - Prebivalstvo v Sloveniji
 ================
-Tilen Močnik, Lukas Kranjc, Jan Debelak
+Tilen Močnik, Jan Debelak, Lukas Kranjc
 
 #### Problem
 
@@ -11,35 +11,18 @@ Ugotovili smo da je prebivalstvo upadalo med leti 1998-2005 nato pa je začelo r
 
 ![Image description](Graphs/naravnaPrirast-Priseljevanje.png)
 
+Po teh ugotovitvah smo se osredotočili na rast prebivalcev po občinah v letih 2007 in 2008. Tokrat smo opazovali skupno rast prebivalstva po posameznih občinah (naravna prirast + priselitve) gledano na tisoč prebivalcev. Vidimo da imamo porazdelitev ki spominja na normalno.
 
-#### Text formatting
+![Image description](Graphs/rast2007-2008.png)
 
-We can include markdown formatting for **bold**, *italic*, ***both***, [links](https://air.utah.edu), `code` and LaTex formatting for inline equations (such as styling subscripts for CO<sub>2</sub>).
+Preverimo ali se noramlna porazdelitev zares prilega podatkom za leto 2008.
 
-#### Tables
+![Image description](Graphs/graph-distribution.png)
 
-We can create tables using hyphens `-` and pipes `\` such as
+Opazimo da se vse 3 porazdellitve dokaj prilegajo našim podatkom. Sedaj pa si poglejmo rast prebivalcev po občinah, ki najbolj izstopata. To sta občini Štore z največjo rastjo prebivalstva in občina Zavrč, kjer prebivalstvo najbolj upada.
 
-| Short          | Long           |
-|----------------|----------------|
-| CO<sub>2</sub> | Carbon Dioxide |
-| CH<sub>4</sub> | Methane        |
+![Image description](Graphs/primerjavaTopWorest.png)
 
-#### Lists
+Z uporabo gručenja bomo občine razdelili po skupinah glede na rast prebivalstva, tako bomo dobili še nekaj občin, ki so najbolj kritične (občine, ki so v isti skupini kakor Zavrč).
 
-Lists can be ordered automatically using numbers
-
-1.  One
-2.  Two
-3.  Three
-
-or bulleted
-
--   One
--   Two
-
-and can have sub points with two spaces before the dash
-
--   One
--   a
--   b
+![Image description](Graphs/treeClustering.png)
