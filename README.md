@@ -17,7 +17,7 @@ Po teh ugotovitvah smo se osredotočili na rast prebivalcev po občinah v letih 
 
 Preverimo ali se noramlna porazdelitev zares prilega podatkom za leto 2008.
 
-!!Slika
+![Image description](Graphs/graph-distribution.png)
 
 Sedaj pa si poglejmo rast prebivalcev po občinah, ki najbolj izstopata. To sta občini Štore z največjo rastjo prebivalstva in občina Zavre, kjer prebivalstvo najbolj upada.
 
