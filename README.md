@@ -1,6 +1,6 @@
 Podatkovno rudarjenje - Prebivalstvo v Sloveniji
 ================
-Tilen Močnik, Lukas Kranjc, Jan Debelak
+Tilen Močnik, Jan Debelak, Lukas Kranjc
 
 #### Problem
 
