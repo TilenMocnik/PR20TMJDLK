@@ -11,6 +11,10 @@ Ugotovili smo da je prebivalstvo upadalo med leti 1998-2005 nato pa je začelo r
 
 ![Image description](Graphs/naravnaPrirast-Priseljevanje.png)
 
+Po teh ugotovitvah smo se osredotočili na rast prebivalcev po občinah v letih 2007 in 2008. Tokrat smo opazovali skupno rast prebivalstva po posameznih občinah (naravna prirast + priselitve) gledano na tisoč prebivalcev.
+
+![Image description](Graphs/rast2007-2008.png)
+
 
 #### Text formatting
 
