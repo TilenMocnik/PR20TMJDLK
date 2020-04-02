@@ -23,6 +23,6 @@ Opazimo da se vse 3 porazdellitve dokaj prilegajo našim podatkom. Sedaj pa si p
 
 ![Image description](Graphs/primerjavaTopWorest.png)
 
-Z uporabo gručenja bomo občine razdelili po skupinah glede na rast prebivalstva, tako bomo dobili še nekaj občin, ki so najbolj kritične (občine, ki so v isti skupini kakor Zavrč).
+Z uporabo gručenja bomo občine razdelili po skupinah glede na rast prebivalstva, tako bomo dobili še nekaj občin, ki so najbolj kritične (občine, ki so v isti skupini kakor Zavrč). Za gručenje smo poskusili nekaj metod, na koncu pa smo se odločili za povprečno vrednost gruče. Za razdaljo med gručami pa smo izbrali Evklidovo razdaljo.
 
 ![Image description](Graphs/treeClustering.png)
