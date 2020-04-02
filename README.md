@@ -15,7 +15,7 @@ Po teh ugotovitvah smo se osredotočili na rast prebivalcev po občinah v letih 
 
 ![Image description](Graphs/rast2007-2008.png)
 
-Preverimo ali se noramlna porazdelitev zares prilega podatkom za leto 2008.
+Iz grafa je razvidno, da se prebivalstvo po občinah večinoma ne spreminja, saj je največ vrednosti prav okoli 0. Preverimo še ali se morda noramlna porazdelitev prilega podatkom za leto 2008.
 
 ![Image description](Graphs/graph-distribution.png)
 
